@@ -1,0 +1,6 @@
+V : S, E
+T : a, b
+S : S
+P : 
+S -> EE
+E -> Ea | Eb | a
